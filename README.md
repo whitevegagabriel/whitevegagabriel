@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whitevegagabriel
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning how to build on WSL 2
+- 👀 I’m interested in Android software development
+- 🌱 I’m currently learning how to use gRPC to build a distributed file system
 - 💞️ I’m looking to collaborate on [nothing at the moment]
 - 📫 How to reach me: whitevegagabriel@gmail.com
 
