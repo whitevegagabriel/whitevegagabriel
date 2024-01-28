@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @whitevegagabriel
 - 👀 I’m interested in Android software development
-- 🌱 I’m currently learning how to use UML for software architecture and design
-- 💞️ I’m looking to collaborate on [nothing at the moment]
+- 🌱 I’m currently learning various algorithms and their applications
 - 📫 How to reach me: whitevegagabriel@gmail.com
 
 <!---
